@@ -5,4 +5,6 @@ Implementation of command `pip search`, written in pure python.
 * `BeautifulSoup4`, for parsing HTML.
 * `rich`, for pretty printing tables.
 # TODO
-* Fallback solutions when some required packages aren't installed
+- [ ] Fallback solutions when required packages aren't installed
+- [ ] Function encapsulation
+- [ ] Rename variables to improve readablity
